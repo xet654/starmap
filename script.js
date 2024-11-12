@@ -12,7 +12,7 @@ const images = [
     {
         src: "Beograd.png",
         title: "Na Avali",
-        description: "Veče kada sam shvatio da bez tebe nemam ni svoj mir."
+        description: "Veče kada sam shvatio da bez tebe nemam ni svoj mir, svoju sreću ni svoj spokoj"
     }
 ];
 
